@@ -9,5 +9,5 @@ A program that can be used to log keydown events.
 + Windows 10
 + Python 3.9.0
 
-# Package Requirements
+# [Package Requirements](https://github.com/Andre3000TW/code-vault/blob/master/key-logger/requirements.bat)
 + keyboard==0.13.5
