@@ -1,5 +1,5 @@
 # Mouse Logger
-A program that can be used to log mouse events(including move/wheel/button events).
+A program that can be used to log mouse events (including move/wheel/button events).
 
 # Usage
 1. Open source/mouse-logger.py (change extension to .pyw to run it in the background)
