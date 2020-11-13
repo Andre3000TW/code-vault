@@ -1,5 +1,5 @@
 # Remote Mouse
-To control another computer's mouse remotely.
+Control another computer's mouse remotely.
 
 # Usage
 1. Modify server_addr in [client.py line #17](https://github.com/Andre3000TW/code-vault/blob/dae3e170a47e07a604773a90abd5beccd4d6a745/remote-mouse/source/client.py#L17)
