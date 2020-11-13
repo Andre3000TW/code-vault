@@ -1,8 +1,7 @@
 import socket
 
-server_addr = ('0.0.0.0', 6666)
-
 # create an UDP socket
+server_addr = ('0.0.0.0', 6666)
 udp_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 udp_socket.bind(server_addr)
 print('Ready to receive UDP packets')
