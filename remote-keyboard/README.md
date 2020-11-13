@@ -1,5 +1,5 @@
 # Remote Keyboard
-To control another computer's keyboard remotely.
+Control another computer's keyboard remotely.
 
 # Usage
 1. Modify server_addr in [client.py line #11](https://github.com/Andre3000TW/code-vault/blob/82cacd76f7d11d1cb625d36422b343a5da4d7e1c/remote-keyboard/source/client.py#L11)
