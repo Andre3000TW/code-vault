@@ -1,8 +1,7 @@
 import socket
 
-server_addr = ('server_ip', 6666)
-
 # create a TCP socket & connect to the server
+server_addr = ('server_ip', 6666)
 tcp_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 tcp_socket.connect(server_addr)
 
