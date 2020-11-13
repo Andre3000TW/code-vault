@@ -1,6 +1,6 @@
 import socket
 
-server_addr = ('localhost', 6666)
+server_addr = ('server_ip', 6666)
 
 # create an UDP socket
 udp_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
