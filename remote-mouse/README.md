@@ -11,7 +11,7 @@ A program that can be used to control another computer's mouse remotely.
 + Windows 10
 + Python 3.9.0
 
-# Package Requirements
+# [Package Requirements](https://github.com/Andre3000TW/code-vault/blob/master/remote-mouse/requirements.bat)
 + bs4==0.0.1
 + lxml==4.6.1
 + requests==2.24.0
