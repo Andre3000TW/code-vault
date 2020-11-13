@@ -1,5 +1,5 @@
 # Key Logger
-A program that can be used to log keydown events.
+Log keydown events.
 
 # Usage
 1. Open source/key-logger.py (Change extension to .pyw to run it in the background)
