@@ -18,7 +18,7 @@ port = 6666
 udp_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 udp_socket.bind((host, port))
 # ready to receive commands
-print(f'Host: {host} is now ready to receive commands on port: {port} with public IP addr: {ip_addr}')
+print(f'Ready to receive commands on port: {port} with public IP addr: {ip_addr}')
 
 while True:
     msg, client_addr = udp_socket.recvfrom(1024)

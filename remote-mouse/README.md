@@ -1,11 +1,11 @@
-# Remote Keyboard
-A program that can be used to control another computer's keyboard remotely.
+# Remote Mouse
+A program that can be used to control another computer's mouse remotely.
 
 # Usage
 1. Modify server_addr in [client.py line #17]()
 2. Open server.py
 3. Open client.py
-4. Start to send keydown events
+4. Start to send mouse events
 
 # Test Environment
 + Windows 10
