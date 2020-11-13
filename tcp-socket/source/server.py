@@ -1,8 +1,7 @@
 import socket
 
-server_addr = ('0.0.0.0', 6666)
-
 # create a TCP socket & listen on server_addr
+server_addr = ('0.0.0.0', 6666)
 tcp_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 tcp_socket.bind(server_addr)
 tcp_socket.listen(1)
