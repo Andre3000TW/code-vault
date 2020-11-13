@@ -2,7 +2,7 @@
 A program that can be used to control another computer's keyboard remotely.
 
 # Usage
-1. Modify server_addr in [client.py line #11](https://github.com/Andre3000TW/test/blob/e0f1c8f58ad3ac619cf7636547df6c4a6f76c86f/remote-keyboard/client.py#L11)
+1. Modify server_addr in [client.py line #11](https://github.com/Andre3000TW/code-vault/blob/82cacd76f7d11d1cb625d36422b343a5da4d7e1c/remote-keyboard/source/client.py#L11)
 2. Open server.py
 3. Open client.py
 4. Start to send keydown events
