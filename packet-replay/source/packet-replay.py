@@ -5,7 +5,6 @@ from socket import socket, AF_PACKET, SOCK_RAW
 
 try:
     interval = float(input('Enter time interval(s): '))
-    print(interval)
 
     # create a raw socket
     raw_socket = socket(AF_PACKET, SOCK_RAW)
